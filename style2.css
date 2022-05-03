@@ -1,0 +1,7 @@
+body {
+    background-color: black;
+    background-image: url(imagens/gameover\ gif.gif);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: 220px 60px;
+}
